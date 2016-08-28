@@ -10,8 +10,8 @@
 <center>
 <pre>
 <form action="Second.jsp" method="post">
-<fieldset>
-<legend>Login</legend>
+<fieldset style="width:300px">
+<legend style="color:yellow">Login</legend>
 UserName:&nbsp<input type="text" name="uname"><br/><br/>
 Password:&nbsp<input type="password" name="pwd"><br/><br/><br/>
 <input type="submit" value="Submit">
