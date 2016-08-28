@@ -12,8 +12,8 @@
 <form action="Second.jsp" method="post">
 <fieldset>
 <legend>Login</legend>
-UserName:<input type="text" name="uname"><br/><br/>
-Password:<&nbsp><&nbsp> <input type="password" name="pwd"><br/><br/><br/>
+UserName:&nbsp<input type="text" name="uname"><br/><br/>
+Password:&nbsp<input type="password" name="pwd"><br/><br/><br/>
 <input type="submit" value="Submit">
 </fieldset>
 </form>
